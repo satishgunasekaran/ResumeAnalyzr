@@ -1,0 +1,41 @@
+{
+  "Name": "Anne Y. Choi",
+  "Education": [
+    {
+      "degree": "Degree, Graduation Year (YYYY)",
+      "institution": "College Name, Location"
+    }
+  ],
+  "Work Experiences": [
+    {
+      "position": "Job Title",
+      "company": "Company 4",
+      "duration": "(MM/YYYY)-Present"
+    },
+    {
+      "position": "Job Title",
+      "company": "Company 3",
+      "duration": "(MM/YYYY)-(MM/YYYY)"
+    },
+    {
+      "position": "Job Title",
+      "company": "Company 2",
+      "duration": "(MM/YYYY)-(MM/YYYY)"
+    },
+    {
+      "position": "Job Title",
+      "company": "Company 1",
+      "duration": "(MM/YYYY)-(MM/YYYY)"
+    }
+  ],
+  "Location": "City, State Zip",
+  "Phone": "(206) 555-5555",
+  "Email": "annechoi@email.com",
+  "Skills": [
+    "Forklift Operation - OSHA certified forklift operator with 5+ years of experience and a perfect safety record",
+    "Multi-tasking: Met visual design deadlines on overlapping projects in fast-paced agency environment; used project management apps like Basecamp and Trello to keep organized."
+  ],
+  "Certifications": [],
+  "Languages": [],
+  "Projects": []
+}
